@@ -1,0 +1,19 @@
+.homepage {
+    text-align: center;
+}
+.userInfo {
+  text-align: center;
+}
+img {
+  width: 100%;
+}
+.repo {
+  font-size: 25px;
+}
+.elementRepo{
+    margin-bottom: 0;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+

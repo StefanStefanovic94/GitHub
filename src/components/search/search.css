@@ -1,0 +1,37 @@
+.wrapSearch {
+  width: 100%;
+ 
+}
+input {
+  width: 100%;
+  margin-bottom: 30px;
+  height: 45px;
+  border-radius: 20px;
+  padding-left: 13px;
+}
+.button {
+  width: 100%;
+  height: 45px;
+  border-radius: 20px;
+}
+.list {
+  background-color: #d3d0cb;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid #93827f 2px;
+}
+.image {
+  width: 50px;
+}
+.parentList {
+  position: absolute;
+  z-index: 1;
+  /* width: 200px; */
+}
+.text {
+  color: black;
+  text-align: center;
+  margin: auto 0;
+}
+
+
